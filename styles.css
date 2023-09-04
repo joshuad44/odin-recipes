@@ -1,0 +1,15 @@
+.header {
+    text-align: center;
+    background-color: lightgray;
+}
+
+img {
+    display: block;
+    width: 30%;
+    margin: auto;
+}
+
+.list {
+    font-size: 20px;
+    background-color: lightgray;
+}
